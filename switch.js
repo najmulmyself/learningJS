@@ -25,5 +25,5 @@ switch(newDate){
     case 6:
         console.log('Satarday')
         break
-    
+    default: console.log('This is not a Default Value')
 }
