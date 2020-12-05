@@ -20,8 +20,7 @@ console.log(obj['name']) //When we use array notation we must use colon to acces
 // Array notation accept string thats why we can declar a variable and call them into 
 
 var show = 'name'
-// console.log(show)
-// we can't use dot notation this way. this will be undefined
+// // we can't use dot notation this way. this will be undefined
 
 console.log(obj.show)
 
